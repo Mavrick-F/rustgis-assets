@@ -1,13 +1,13 @@
 # rustgis-assets
 
 Static assets for [RustGIS](https://github.com/opengeos/RustGIS), published via GitHub Pages at
-**<https://opengeos.github.io/rustgis-assets/>**.
+**<https://opengeos.org/rustgis-assets/>**.
 
 Any file committed to `main` is served at the matching path:
 
 ```
 repo:   images/hero.webp
-url:    https://opengeos.github.io/rustgis-assets/images/hero.webp
+url:    https://opengeos.org/rustgis-assets/images/hero.webp
 ```
 
 ## Layout
